@@ -1,10 +1,10 @@
 # Code Of Conduct
 
-# Who It Applies To
+## Who It Applies To
 
 This Code of Conduct applies to all Coding Black Females (CBF) attendees. This includes, but is not limited to, speakers, facilitators, mentors, sponsors, volunteers, venue staff, event organisers, and organisation leaders.
 
-# What We Ask Of You
+## What We Ask Of You
 
 We will not accept the following behaviours at Coding Black Females:
 
@@ -20,11 +20,11 @@ We will not accept the following behaviours at Coding Black Females:
 
 CBF prioritises marginalised people’s safety over privileged people’s comfort
 
-# When The Code Of Conduct Is Not Followed
+## When The Code Of Conduct Is Not Followed
 If you are subject to any unacceptable behaviour, whether listed above or not, notice that someone else is being subject to such behaviour, or have concerns that this Code of Conduct is not being followed, notify a CBF team member as soon as possible or email us at info@codingblackfemales.com.
 
 All reports will remain completely confidential. The CBF team will determine and carry out the appropriate course of action, including, but not limited to, speaking to the individual, ejection from the event or banning from all future events, and will be available for the duration of the event to help an attendee experiencing unacceptable behaviour feel safe during that event and at future events. If requested, a follow-up report will be made to individuals who report being harassed.
 
-# How to give feedback on this Code of Conduct
+## How to give feedback on this Code of Conduct
 
 CBF prioritises marginalised people’s safety over privileged people’s comfort. If you feel like this Code of Conduct does that inadequately, or have any other feedback that supports this goal, please let us know by emailing us at info@codingblackfemales.com. This is a living document, that we recognise will never be “finished”, and appreciate any ways we can make it clearer or more supportive of marginalised people.
