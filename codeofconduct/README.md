@@ -2,7 +2,7 @@
 
 ## Who It Applies To
 
-This Code of Conduct applies to all Coding Black Females (CBF) attendees. This includes, but is not limited to, speakers, facilitators, mentors, sponsors, volunteers, venue staff, event organisers, and organisation leaders.
+This Code of Conduct applies to all Coding Black Females (CBF) attendees. This includes, but is not limited to, speakers, facilitators, mentors, mentees, sponsors, volunteers, venue staff, event organisers, and organisation leaders.
 
 ## What We Ask Of You
 
